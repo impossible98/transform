@@ -92,7 +92,6 @@ export default function App(props) {
         <Pane flex={1} display="flex" paddingX={20} className="logo-transform">
           {logo}
         </Pane>
-
       </Pane>
       <Pane display="flex" flexDirection="row">
         <Navigator />

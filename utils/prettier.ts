@@ -1,5 +1,4 @@
 export const prettierParsers = {
-  css: "postcss",
   javascript: "babel",
   jsx: "babel",
   svg: "html",
@@ -11,7 +10,6 @@ export const supportedLanguages = [
   "json",
   "babylon",
   "html",
-  "postcss",
   "graphql",
   "markdown",
   "yaml",

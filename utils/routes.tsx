@@ -8,27 +8,27 @@ export const categorizedRoutes = [
     content: [
       {
         label: "to Go Struct",
-        path: "/",
+        path: "/"
       },
       {
         label: "to GraphQL",
-        path: "/json-to-graphql",
+        path: "/json-to-graphql"
       },
       {
         label: "to TypeScript",
-        path: "/json-to-typescript",
+        path: "/json-to-typescript"
       },
       {
         label: "to Rust Serde",
-        path: "/json-to-rust-serde",
+        path: "/json-to-rust-serde"
       },
       {
         label: "to MySQL",
-        path: "/json-to-mysql",
+        path: "/json-to-mysql"
       },
       {
         label: "to YAML",
-        path: "/json-to-yaml",
+        path: "/json-to-yaml"
       },
       {
         label: "to JSDoc",
@@ -36,11 +36,11 @@ export const categorizedRoutes = [
       },
       {
         label: "to JSON Schema",
-        path: "/json-to-json-schema",
+        path: "/json-to-json-schema"
       },
       {
         label: "to TOML",
-        path: "/json-to-toml",
+        path: "/json-to-toml"
       }
     ]
   },
@@ -49,7 +49,7 @@ export const categorizedRoutes = [
     content: [
       {
         label: "to JSON",
-        path: "/js-object-to-json",
+        path: "/js-object-to-json"
       }
     ]
   },
@@ -59,11 +59,11 @@ export const categorizedRoutes = [
     content: [
       {
         label: "XML to JSON",
-        path: "/xml-to-json",
+        path: "/xml-to-json"
       },
       {
         label: "YAML to JSON",
-        path: "/yaml-to-json",
+        path: "/yaml-to-json"
       },
       {
         label: "YAML to TOML",
@@ -71,11 +71,11 @@ export const categorizedRoutes = [
       },
       {
         label: "Markdown to HTML",
-        path: "/markdown-to-html",
+        path: "/markdown-to-html"
       },
       {
         label: "TOML to JSON",
-        path: "/toml-to-json",
+        path: "/toml-to-json"
       },
       {
         label: "TOML to YAML",
