@@ -35,10 +35,6 @@ export const categorizedRoutes = [
         path: "/json-to-jsdoc"
       },
       {
-        label: "to JSON Schema",
-        path: "/json-to-json-schema"
-      },
-      {
         label: "to TOML",
         path: "/json-to-toml"
       }
